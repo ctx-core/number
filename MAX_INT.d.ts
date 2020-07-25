@@ -43,4 +43,3 @@ export declare function isNaN__float(number: any): boolean;
 export declare function isFloat(number: any): boolean;
 export declare const isNumber: typeof isFloat;
 export declare function increment__sequence(): number;
-export declare function _text__number__or__mdash(number: any): string;
