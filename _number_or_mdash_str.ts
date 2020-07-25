@@ -1,4 +1,4 @@
-import { isNumber } from './lib'
+import { isNumber } from './isNumber'
 export function _number_or_mdash_str(number) {
 	return (
 		isNumber(number)
