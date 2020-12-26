@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 5.1.0
+
+### Minor Changes
+
+- feat: round: high precision accurate rounding
+
 ## 5.0.5
 
 ### Patch Changes
