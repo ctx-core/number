@@ -1,4 +1,4 @@
-export function _float_isNaN(number) {
-	return isNaN(parseFloat(number))
+export function _float_isNaN(number:number|string) {
+	return isNaN(parseFloat(number.toString()))
 }
-export const isNaN__float = _float_isNaN
+export { _float_isNaN as isNaN__float }

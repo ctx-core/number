@@ -1,2 +1,2 @@
-export declare function _comma_number_str(number: any): any;
-export declare const format__commas: typeof _comma_number_str;
+export declare function _comma_number_str(number: number | string): string | null;
+export { _comma_number_str as format__commas };

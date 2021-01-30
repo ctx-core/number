@@ -1,47 +1,40 @@
 /**
- * @property {number} power represented as a string
- * @typedef denominations
- * @example
- * {7: 'mn', 10: 'bn', 13: 'tn'}
- */
-/**
  * Normalization text for a number
- * @param {number} number
- * @param {module:@ctx-core/number/lib~denominations} denominations
- * @returns {string}
  * @example
  * `$${abbreviate__number(amount, {6: 'mm', 9: 'bn', 12: 'tn'})}`
  */
-export function _abbreviate_number_str(number, denominations) {
-	const float = parseFloat(number)
+export function _abbreviate_number_str(number:number|string, denominations:Record<string, string>) {
+	const float = parseFloat(number.toString())
 	if (!float) return '0'
 	const exp10 = Math.floor(Math.log10(float))
-	const step__exp10 =
+	const exp10_step =
 		exp10 >= 0
 		? -1
 		: 1
-	let denomination, i__denomination
-	set__denomination()
-	const normalized__float =
+	let denomination, denomination_i
+	set_denomination()
+	const normalized_float =
 		denomination
 		? float
-			/ Math.pow(10, i__denomination)
+			/ Math.pow(10, denomination_i)
 		: float
-	const normalized__fixed =
-		normalized__float
+	const normalized_fixed =
+		normalized_float
 			.toFixed(2)
-	return `${normalized__fixed}${denomination}`
-	function set__denomination() {
-		i__denomination = exp10
-		while (i__denomination) {
+	return `${normalized_fixed}${denomination}`
+	function set_denomination() {
+		denomination_i = exp10
+		while (denomination_i) {
 			denomination =
-				denominations[i__denomination]
+				denominations[denomination_i]
 			if (denomination) break
-			i__denomination =
-				i__denomination
-				+ step__exp10
+			denomination_i =
+				denomination_i
+				+ exp10_step
 		}
 		if (!denomination) denomination = ''
 	}
 }
-export const abbreviate__number = _abbreviate_number_str
+export {
+	_abbreviate_number_str as abbreviate__number
+}

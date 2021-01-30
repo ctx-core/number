@@ -1,4 +1,4 @@
-export function _comma_number_str(number) {
+export function _comma_number_str(number:number|string) {
 	return (
 		number == null
 		? null
@@ -9,4 +9,6 @@ export function _comma_number_str(number) {
 		)
 	)
 }
-export const format__commas = _comma_number_str
+export {
+	_comma_number_str as format__commas
+}

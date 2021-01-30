@@ -1,8 +1,8 @@
-export function _no_comma_str(string) {
+export function _no_comma_str(string:string) {
 	return (
 		string == null
 		? string
 		: (string.toString().replace(/,/g, ''))
 	)
 }
-export const unformat__commas = _no_comma_str
+export { _no_comma_str as unformat__commas }

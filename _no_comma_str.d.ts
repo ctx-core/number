@@ -1,2 +1,2 @@
-export declare function _no_comma_str(string: any): any;
-export declare const unformat__commas: typeof _no_comma_str;
+export declare function _no_comma_str(string: string): string;
+export { _no_comma_str as unformat__commas };

@@ -1,9 +1,9 @@
 import { isNumber } from './isNumber'
-export function _number_or_mdash_str(number) {
+export function _number_or_mdash_str(number:number) {
 	return (
 		isNumber(number)
 		? `${number}`
 		: '—'
 	)
 }
-export const _text__number__or__mdash = _number_or_mdash_str
+export { _number_or_mdash_str as _text__number__or__mdash }

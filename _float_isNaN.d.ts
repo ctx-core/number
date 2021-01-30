@@ -1,2 +1,2 @@
-export declare function _float_isNaN(number: any): boolean;
-export declare const isNaN__float: typeof _float_isNaN;
+export declare function _float_isNaN(number: number | string): boolean;
+export { _float_isNaN as isNaN__float };

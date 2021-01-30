@@ -1,2 +1,2 @@
 import { isFloat } from './isFloat'
-export const isNumber = isFloat
+export { isFloat as isNumber }

@@ -1,4 +1,4 @@
-export function _percentage_str(number) {
+export function _percentage_str(number:number) {
 	return `${number}%`
 }
-export const format__percentage = _percentage_str
+export { _percentage_str as format__percentage }
