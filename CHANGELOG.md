@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 5.2.0
+
+### Minor Changes
+
+- typing argumnets,export alias
+
 ## 5.1.0
 
 ### Minor Changes
