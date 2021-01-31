@@ -1,5 +1,5 @@
 import { isNumber } from './isNumber'
-export function _number_or_mdash_str(number:number) {
+export function _number_or_mdash_str(number:number|any) {
 	return (
 		isNumber(number)
 		? `${number}`
