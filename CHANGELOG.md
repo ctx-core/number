@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 5.3.1
+
+### Patch Changes
+
+- fix: \_float_isNaN,\_abbreviate_number_str: handle null argument
+
 ## 5.3.0
 
 ### Minor Changes
