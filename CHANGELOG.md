@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 5.4.0
+
+### Minor Changes
+
+- feat:increment_sequence,is_current_sequence
+
 ## 5.3.1
 
 ### Patch Changes
