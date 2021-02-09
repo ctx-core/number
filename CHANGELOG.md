@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 5.4.1
+
+### Patch Changes
+
+- typescript: ^4.1.3 -> ^4.1.4
+
 ## 5.4.0
 
 ### Minor Changes
