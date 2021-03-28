@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 5.4.6
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+
 ## 5.4.5
 
 ### Patch Changes
