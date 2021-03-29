@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 5.4.7
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+
 ## 5.4.6
 
 ### Patch Changes
