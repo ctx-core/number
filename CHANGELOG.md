@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 5.4.8
+
+### Patch Changes
+
+- version bump
+
 ## 5.4.7
 
 ### Patch Changes
