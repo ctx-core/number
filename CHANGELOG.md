@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 5.4.10
+
+### Patch Changes
+
+- fix: round: 0 decimal rounding
+
 ## 5.4.9
 
 ### Patch Changes
