@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 5.4.11
+
+### Patch Changes
+
+- update dependencies
+
 ## 5.4.10
 
 ### Patch Changes
