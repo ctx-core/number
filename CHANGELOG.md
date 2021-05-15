@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 5.5.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
 ## 5.4.11
 
 ### Patch Changes

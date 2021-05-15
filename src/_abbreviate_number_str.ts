@@ -11,7 +11,7 @@ export function _abbreviate_number_str(number:number|string, denominations:Recor
 		exp10 >= 0
 		? -1
 		: 1
-	let denomination, denomination_i
+	let denomination = '', denomination_i:number = exp10
 	set_denomination()
 	const normalized_float =
 		denomination
@@ -25,14 +25,12 @@ export function _abbreviate_number_str(number:number|string, denominations:Recor
 	function set_denomination() {
 		denomination_i = exp10
 		while (denomination_i) {
-			denomination =
-				denominations[denomination_i]
+			denomination = denominations[denomination_i]
 			if (denomination) break
 			denomination_i =
 				denomination_i
 				+ exp10_step
 		}
-		if (!denomination) denomination = ''
 	}
 }
 export {
