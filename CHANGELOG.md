@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 5.5.1
+
+### Patch Changes
+
+- fix: target: 2018: nodejs compatability
+
 ## 5.5.0
 
 ### Minor Changes
