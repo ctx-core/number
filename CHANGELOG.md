@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 5.5.2
+
+### Patch Changes
+
+- .npmignore: + ~
+
 ## 5.5.1
 
 ### Patch Changes
