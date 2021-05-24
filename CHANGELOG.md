@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 5.6.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
 ## 5.5.3
 
 ### Patch Changes
