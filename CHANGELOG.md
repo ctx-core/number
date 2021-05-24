@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 5.6.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+
 ## 5.6.0
 
 ### Minor Changes
