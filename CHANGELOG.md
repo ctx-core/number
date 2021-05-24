@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 5.5.3
+
+### Patch Changes
+
+- types: ./src/index.d.ts: address error TS2742 issue
+
 ## 5.5.2
 
 ### Patch Changes
