@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 5.7.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
 ## 5.6.1
 
 ### Patch Changes
