@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 5.7.1
+
+### Patch Changes
+
+- update dependencies
+
 ## 5.7.0
 
 ### Minor Changes
