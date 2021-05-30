@@ -1,4 +1,4 @@
-import { _float_isNaN } from './_float_isNaN'
+import { float_isNaN_ } from './float_isNaN_'
 export function isFloat(number:any) {
-	return !_float_isNaN(number)
+	return !float_isNaN_(number)
 }

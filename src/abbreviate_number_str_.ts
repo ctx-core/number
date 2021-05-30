@@ -3,7 +3,7 @@
  * @example
  * `$${abbreviate__number(amount, {6: 'mm', 9: 'bn', 12: 'tn'})}`
  */
-export function _abbreviate_number_str(number:number|string, denominations:Record<string, string>) {
+export function abbreviate_number_str_(number:number|string, denominations:Record<string, string>) {
 	const float = parseFloat(number as string)
 	if (!float) return '0'
 	const exp10 = Math.floor(Math.log10(float))
@@ -34,5 +34,6 @@ export function _abbreviate_number_str(number:number|string, denominations:Recor
 	}
 }
 export {
-	_abbreviate_number_str as abbreviate__number
+	abbreviate_number_str_ as _abbreviate_number_str,
+	abbreviate_number_str_ as abbreviate__number,
 }

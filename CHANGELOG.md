@@ -1,5 +1,12 @@
 # @ctx-core/number
 
+## 6.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
 ## 5.7.1
 
 ### Patch Changes
