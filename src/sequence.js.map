@@ -1,1 +1,0 @@
-{"version":3,"file":"sequence.js","sourceRoot":"","sources":["../sequence.ts"],"names":[],"mappings":"AAAA,IAAI,QAAQ,GAAG,CAAC,CAAA;AAChB,MAAM,UAAU,kBAAkB;IAChC,QAAQ,IAAI,CAAC,CAAA;IACd,OAAO,QAAQ,CAAA;AAChB,CAAC;AACD,MAAM,UAAU,mBAAmB,CAAC,WAAkB;IACpD,OAAO,QAAQ,KAAK,WAAW,CAAA;AACjC,CAAC"}
