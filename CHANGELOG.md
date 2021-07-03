@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 7.1.0
+
+### Minor Changes
+
+- feat: isFloat*or*,isNumber*or*
+
 ## 7.0.10
 
 ### Patch Changes
