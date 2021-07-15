@@ -1,2 +1,2 @@
-import { isFloat } from './isFloat'
+import { isFloat } from './isFloat.js'
 export { isFloat as isNumber }
