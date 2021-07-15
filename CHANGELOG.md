@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 8.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
 ## 7.1.0
 
 ### Minor Changes
