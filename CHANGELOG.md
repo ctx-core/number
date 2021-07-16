@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 8.0.3
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+
 ## 8.0.2
 
 ### Patch Changes
