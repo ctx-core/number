@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 8.0.6
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+
 ## 8.0.5
 
 ### Patch Changes
