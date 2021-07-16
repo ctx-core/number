@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 8.0.7
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+
 ## 8.0.6
 
 ### Patch Changes
