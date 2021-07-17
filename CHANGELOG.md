@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 8.0.11
+
+### Patch Changes
+
+- fix: module import
+
 ## 8.0.10
 
 ### Patch Changes
