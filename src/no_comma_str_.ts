@@ -1,4 +1,4 @@
-export function no_comma_str_(string:string) {
+export function no_comma_str_(string:string):string|null|undefined {
 	return (
 		string == null
 		? string

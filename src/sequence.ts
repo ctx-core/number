@@ -1,5 +1,5 @@
 let sequence = 0
-export function increment_sequence() {
+export function increment_sequence():number {
   sequence += 1
 	return sequence
 }

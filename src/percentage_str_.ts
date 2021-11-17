@@ -1,4 +1,4 @@
-export function percentage_str_(number:number) {
+export function percentage_str_(number:number):string {
 	return `${number}%`
 }
 export {

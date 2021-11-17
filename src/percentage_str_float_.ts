@@ -1,4 +1,4 @@
-export function percentage_str_float_(percentage:string) {
+export function percentage_str_float_(percentage:string):number {
 	return parseFloat(percentage.replace(/%/g, ''))
 }
 export {
