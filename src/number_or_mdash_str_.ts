@@ -3,7 +3,7 @@ export function number_or_mdash_str_(number:number|any) {
 	return (
 		isNumber(number)
 		? `${number}`
-		: '—.js'
+		: '—'
 	)
 }
 export {

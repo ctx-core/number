@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 8.0.40
+
+### Patch Changes
+
+- number*or_mdash_str*: !isNumber: - extra .js
+
 ## 8.0.39
 
 ### Patch Changes
