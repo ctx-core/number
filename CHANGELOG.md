@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 8.1.1
+
+### Patch Changes
+
+- isFloat*or*,isNumber*or*,parseFloat*or*: or\_ defaults to null
+
 ## 8.1.0
 
 ### Minor Changes
