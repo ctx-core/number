@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 8.1.0
+
+### Minor Changes
+
+- feat: parseFloat*or*
+
 ## 8.0.41
 
 ### Patch Changes
