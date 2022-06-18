@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 8.2.0
+
+### Minor Changes
+
+- feat: + NumericUnit (NumberUnit): number annotation type
+
 ## 8.1.1
 
 ### Patch Changes
