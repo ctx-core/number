@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 8.2.1
+
+### Patch Changes
+
+- NumericUnit: ∋ TagType
+
 ## 8.2.0
 
 ### Minor Changes
