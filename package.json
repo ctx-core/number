@@ -45,6 +45,6 @@
 	},
 	"sideEffects": false,
 	"dependencies": {
-		"@ctx-core/types": "^1.0.0"
+		"@ctx-core/types": "^1.0.1"
 	}
 }
