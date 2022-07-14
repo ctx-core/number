@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 8.3.0
+
+### Minor Changes
+
+- feat: parseInt*or*
+
 ## 8.2.1
 
 ### Patch Changes
