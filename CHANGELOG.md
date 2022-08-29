@@ -1,5 +1,13 @@
 # @ctx-core/number
 
+## 8.3.1
+
+### Patch Changes
+
+- tsx: ^3.8.2 -> ^3.9.0
+- Updated dependencies
+  - @ctx-core/types@1.0.2
+
 ## 8.3.0
 
 ### Minor Changes
