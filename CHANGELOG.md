@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 8.4.0
+
+### Minor Changes
+
+- - isNumber\_: alias of isFloat
+
 ## 8.3.1
 
 ### Patch Changes
