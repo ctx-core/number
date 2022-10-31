@@ -1,7 +1,7 @@
 {
 	"compileOnSave": true,
 	"compilerOptions": {
-		"target": "ES2021",
+		"target": "ES2022",
 		"composite": true,
 		"declaration": true,
 		"sourceMap": true,
@@ -16,14 +16,13 @@
 		"noImplicitThis": true,
 		"noUnusedLocals": true,
 		"noUnusedParameters": true,
+		"skipLibCheck": true,
 		"typeRoots": [
 			"../../../node_modules/@types",
 			"../../node_modules/@types",
 			"node_modules/@types"
 		],
 		"rootDir": "src",
-		"outDir": "lib",
-		"declarationDir": "lib",
 		"lib": ["dom", "ESNext"],
 		"importsNotUsedAsValues": "error",
 		"strict": true

@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 8.5.0
+
+### Minor Changes
+
+- - isFloat*andor*,isNumber*andor*,parseFloat*andor*,parseInt*andor*
+
 ## 8.4.0
 
 ### Minor Changes
