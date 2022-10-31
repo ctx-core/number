@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 8.5.2
+
+### Patch Changes
+
+- remove console.debug
+
 ## 8.5.1
 
 ### Patch Changes
