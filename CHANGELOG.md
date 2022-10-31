@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 8.5.1
+
+### Patch Changes
+
+- parseInt*andor*,parseFloat*andor*: fix: and\_ argument return value
+
 ## 8.5.0
 
 ### Minor Changes
