@@ -1,4 +1,4 @@
-import { isNumber_ } from './isNumber.js'
+import { isNumber_ } from '../isNumber/index.js'
 export function number_or_mdash_str_(number) {
 	return isNumber_(number) ? `${number}` : '—'
 }

@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 8.6.0
+
+### Minor Changes
+
+- extract directories for each module
+
 ## 8.5.2
 
 ### Patch Changes
