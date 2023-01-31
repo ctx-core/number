@@ -1,5 +1,13 @@
 # @ctx-core/number
 
+## 8.6.1
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/types@1.1.2
+
 ## 8.6.0
 
 ### Minor Changes
