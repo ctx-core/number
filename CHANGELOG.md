@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 8.6.2
+
+### Patch Changes
+
+- NumericUnit: fix: export { NumericUnit as NumberUnit }
+
 ## 8.6.1
 
 ### Patch Changes
