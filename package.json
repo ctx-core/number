@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/number",
-	"version": "8.6.16",
+	"version": "8.6.17",
 	"description": "ctx-core number",
 	"keywords": [
 		"ctx-core",
@@ -45,6 +45,6 @@
 	},
 	"sideEffects": false,
 	"dependencies": {
-		"@ctx-core/types": "^1.2.13"
+		"@ctx-core/types": "^1.2.14"
 	}
 }
