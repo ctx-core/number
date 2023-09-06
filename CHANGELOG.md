@@ -1,5 +1,13 @@
 # @ctx-core/number
 
+## 8.6.23
+
+### Patch Changes
+
+- version bump
+- Updated dependencies
+  - @ctx-core/types@1.2.20
+
 ## 8.6.22
 
 ### Patch Changes
