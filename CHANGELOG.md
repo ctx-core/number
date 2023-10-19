@@ -1,5 +1,13 @@
 # @ctx-core/number
 
+## 8.6.24
+
+### Patch Changes
+
+- tsx: ^3.13.0 -> ^3.14.0
+- Updated dependencies
+  - @ctx-core/types@1.2.21
+
 ## 8.6.23
 
 ### Patch Changes
