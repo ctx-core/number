@@ -1,5 +1,15 @@
 # @ctx-core/number
 
+## 8.7.4
+
+### Patch Changes
+
+- package.json: files:
+
+      *.d.ts
+      *.js
+      *.json
+
 ## 8.7.3
 
 ### Patch Changes
