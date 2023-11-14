@@ -1,5 +1,13 @@
 # @ctx-core/number
 
+## 8.7.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - ctx-core@2.2.2
+
 ## 8.7.2
 
 ### Patch Changes
