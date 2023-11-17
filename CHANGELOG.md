@@ -1,5 +1,14 @@
 # @ctx-core/number
 
+## 8.7.7
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - ctx-core@3.0.0
+
 ## 8.7.6
 
 ### Patch Changes
