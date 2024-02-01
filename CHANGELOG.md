@@ -1,5 +1,11 @@
 # @ctx-core/number
 
+## 8.7.124
+
+### Patch Changes
+
+- ctx-core: ^5.36.2 -> ^5.36.3
+
 ## 8.7.123
 
 ### Patch Changes
