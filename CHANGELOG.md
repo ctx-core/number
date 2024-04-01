@@ -1,5 +1,12 @@
 # @ctx-core/number
 
+## 8.7.165
+
+### Patch Changes
+
+- Updated dependencies
+  - ctx-core@7.0.0
+
 ## 8.7.164
 
 ### Patch Changes
